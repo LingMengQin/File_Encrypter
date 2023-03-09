@@ -12,7 +12,7 @@ or recode this program to improve your C language skill.
 
 下载release文件夹中的fileencrypter.exe，将需要加密的文件拖到fileencrypter.exe上用其打开即可进行文件加密。  
 download the fileencrypter.exe in folder **release**,drag the file you want to encrpyte and drop it onto the exe file.  
-![](resources/program%20usage.jpg)
+![](resources/program_usage.jpg)
 
 
 编写这个加密程序的教程后续再更新  
